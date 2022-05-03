@@ -35,7 +35,8 @@
   },
   "homepage": "https://github.com/toystars/react-native-multiple-select#readme",
   "dependencies": {
-    "prop-types": "^15.7.2"
+    "prop-types": "^15.7.2",
+    "react-native-vector-icons": "^9.1.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.2",
@@ -58,7 +59,6 @@
   "peerDependencies": {
     "lodash": ">4.17.00",
     "react": ">16.6.0",
-    "react-native": ">0.57.0",
-    "react-native-vector-icons": ">6.0.0"
+    "react-native": ">0.57.0"
   }
 }
